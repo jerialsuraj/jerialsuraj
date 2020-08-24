@@ -35,7 +35,7 @@ Hola, I'm Jerial Suraj! 👋
 - 💬 Ask me about Php/JS/Html/Css/Sass/Jquery.
 - 📫 How to reach me: [Twitter - @jerialsuraj](https://twitter.com/jerialsuraj),[Facebook - @jerialsuraj](https://www.facebook.com/jerialsuraj),[Instagram - @jerialsuraj](https://www.instagram.com/jerialsuraj/),[Telegram - @jerialsuraj](https://t.me/jerialsuraj)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 3 hours listening songs everyday.
+- ⚡ Fun fact: I spend almost 5 hours listening songs everyday.
 
 <img src="https://github-readme-stats.vercel.app/api?username=jerialsuraj&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 [![Twitter: jerialsuraj](https://img.shields.io/twitter/follow/jerialsuraj?style=social)](https://twitter.com/jerialsuraj)
@@ -46,12 +46,15 @@ Hola, I'm Jerial Suraj! 👋
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
+
+
 
 <a href="https://github.com/jerialsuraj">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerialsuraj&theme=light&hide_langs_below=1" />
